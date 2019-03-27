@@ -1,0 +1,24 @@
+{
+  "name": "API-EDA",
+  "version": "1.0.0",
+  "description": "API - Connect work teams 👨‍💼👩‍💼👨‍🔬👩‍🔬.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zefe/API-EDA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zefe/API-EDA/issues"
+  },
+  "homepage": "https://github.com/zefe/API-EDA#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4"
+  }
+}
